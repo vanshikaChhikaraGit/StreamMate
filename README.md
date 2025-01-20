@@ -1,6 +1,10 @@
 # Real-Time Chat Application(https://streammate.onrender.com/)
 
 A full-stack **Real-Time Chat Application** designed to enable seamless communication with an interactive and personalized user experience. This web app supports real-time messaging, secure user authentication, and live user tracking, making it ideal for both personal and group chats.
+![Screenshot 2025-01-15 135925](https://github.com/user-attachments/assets/091d1d54-2f6f-4f38-b142-524ed098309c)
+![Screenshot 2025-01-15 135651](https://github.com/user-attachments/assets/0df3deff-dd2c-4a99-bb8d-054d7f967c0e)
+![Screenshot 2025-01-15 135651](https://github.com/user-attachments/assets/25561543-afea-445a-bd19-f061f04b2761)
+![Screenshot 2025-01-15 135412](https://github.com/user-attachments/assets/1eccf0b7-4fdb-44e8-84c1-700d26fc5435)
 
 ## Key Features
 
